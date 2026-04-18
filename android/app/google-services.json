@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "814693443858",
+    "project_id": "flowershop-61ab0",
+    "storage_bucket": "flowershop-61ab0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814693443858:android:d167487fc7dac830022bcb",
+        "android_client_info": {
+          "package_name": "com.example.popo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi-ghrAzMAQeUsDKNVeAWsUTtwr4vOVUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
